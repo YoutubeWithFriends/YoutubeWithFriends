@@ -20,8 +20,8 @@ This application lets users watch youtube videos in a group along with chat faci
   - Play
   - Pause
   - Load
-  - Syncronize
-- Basic Chat Functionality along with emoji and image support
+  - Synchronize
+- Basic Chat Functionality along with emoji :) and image support
 
 ## Screenshots
 
