@@ -1,4 +1,5 @@
-# YoutubeWithFriends <a href="https://youtubewithfriends.netlify.app/" target="__blank" noopener noreferrer><img src="./screenshots/logo.svg" style="height:10px; margin-left: 10px"/></a>
+# YoutubeWithFriends
+> Project Link : https://youtubewithfriends.netlify.app/
 
 ## Real time collaboration for Youtube videos
 
