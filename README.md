@@ -1,4 +1,5 @@
 # YoutubeWithFriends
+
 > Project Link : https://youtubewithfriends.netlify.app/
 
 ## Real time collaboration for Youtube videos
@@ -16,6 +17,7 @@ This application lets users watch youtube videos in a group along with chat faci
 ## Facilities Provided
 
 - Creation of rooms and joining of rooms
+- Invite via email
 - Watching a Youtube video in a particular room simultaneously
 - Basic video functionalities
   - Play
@@ -23,13 +25,14 @@ This application lets users watch youtube videos in a group along with chat faci
   - Load
   - Synchronize
 - Basic Chat Functionality along with emoji :) and image support
+- Audio Chat Functionality
 
 ## Screenshots
 
 ![Join](./screenshots/join.png)
+![Invite](./screenshots/invite.png)
+![Room](./screenshots/Room.png)
 ![Overall](./screenshots/Overall.png)
-![Participants](./screenshots/Participants.png)
-![typing](./screenshots/typing.png)
 
 ## Contributors
 
