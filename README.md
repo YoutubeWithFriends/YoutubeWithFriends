@@ -1,6 +1,6 @@
 # YoutubeWithFriends
 
-> Project Link : https://youtubewithfriends.netlify.app/
+> Project Link : https://youtubewithfriends.tech/
 
 ## Real time collaboration for Youtube videos
 
